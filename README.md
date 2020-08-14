@@ -74,7 +74,7 @@ arch-chroot 'a geçiyoruz.
 
 Aşağıdaki komut ile kuracağımız paketleri kuruyoruz.
 
-    pacman -S xorg xorg-xinit sddm cinnamon dialog wpa_supplicant sudo gdm python3 xfce4-terminal opera falkon git code nano
+    pacman -S xorg xorg-xinit sddm cinnamon dialog wpa_supplicant sudo gdm python3 xfce4-terminal opera falkon git code nano npm nodejs
 Systemctl ayarlarını yapıyoruz.
 
     systemctl enable NetworkManager
