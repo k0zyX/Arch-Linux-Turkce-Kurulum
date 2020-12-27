@@ -74,7 +74,7 @@ arch-chroot 'a geçiyoruz.
 
 Aşağıdaki komut ile kuracağımız paketleri kuruyoruz.
 
-    pacman -S xorg xorg-xinit sddm cinnamon dialog wpa_supplicant sudo gdm python3 xfce4-terminal opera firefox git code nano npm nodejs nomacs nmap mpv ntfs-3g unzip youtube-dl vi vim discord
+    pacman -S xorg xorg-xinit sddm cinnamon dialog wpa_supplicant sudo gdm python3 xfce4-terminal opera firefox git code nano npm nodejs nomacs nmap mpv ntfs-3g unzip youtube-dl vi vim discord flameshot xf86-video-intel
 Systemctl ayarlarını yapıyoruz.
 
     systemctl enable NetworkManager
