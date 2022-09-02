@@ -7,8 +7,13 @@ Merhabalar, bu oluşturmuş olduğum markdown dosyası benim Arch Linux kurarken
 
 Arch iso yazdığımız USB'yi boot ettikten sonra yapmamız gereken ilk ayar;
 
-    loadkeys trq
-ile klavyemizi Türkçeleştirmek.
+`loadkeys trq`
+
+ile klavyemizi Türkçeleştiriyoruz.
+
+`setfont eurlatgr`
+
+ile Türkçe destekli yazı tipini yüklüyoruz.
 
 Sonrasında `wifi-menu` komutu ile bir ağa bağlanmamız gerekiyor. Kablo ile bağlıysanız yapmanıza gerek yok.
 
